@@ -1,0 +1,6 @@
+.venv
+build
+__pycache__
+file_version_info.txt
+ESATAN_rearrange_data_files.spec
+*.data
