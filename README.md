@@ -8,13 +8,13 @@ The program creates a new file with suffix "_COL", ex.:
 SAT_XYZ.NODES.data -> SAT_XYZ_COL.NODES.data.
 
 - GUI:
-
+![](/images/GUI.JPG)
 
 - file before:
-
+![](/images/before.JPG)
 
 - file after:
-
+![](/images/after.JPG)
 
 This improved formatting is particularly useful when editing an attribute in several rows at once.
 
