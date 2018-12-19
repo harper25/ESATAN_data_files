@@ -12,9 +12,11 @@ SAT_XYZ.NODES.data -> SAT_XYZ_COL.NODES.data.
 ![ ](/images/GUI.JPG)
 
 - file before: 
+
 ![ ](/images/before.JPG)
 
 - file after:
+
 ![ ](/images/after.JPG)
 
 This improved formatting is particularly useful when editing an attribute in several rows at once.
